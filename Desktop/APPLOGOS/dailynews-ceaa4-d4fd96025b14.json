@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dailynews-ceaa4",
+  "private_key_id": "d4fd96025b14fa49a47d67a47220c79a8b7a4398",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4xPF9DrNim1D1\nT2rrak3W5tNikwEY+szM5YNg35tLDEXMRJ77+I1DfW9cRlvnhWcAZ0RW0jMvF/W2\nK/7fGod4JJ2gLMZBiS+Qjw3J1OvI/4YDbGOQUsnqVoXNLg777f5dJhuhJu1BNHJW\nzXCEtO8ptXlH9Cz8UzxB+HLGTL24oBy20f22gV3GDPmRc+EXVfBSKXW7CcEPs2ap\ndET1dxMaK6ZHqTv+7FDBY2MBPWpRNJN3znVoCjXdqBDdlcVRiWihV6YoKFaXOUfs\n4w0vckuuoGZ2MKsSucF6mzsBz2bcEK8SV3RYVBa/qmRvj5aAxAhmh0PvzjvjQfQ0\nOty+h7kXAgMBAAECggEAMZfW84ibGHf0wms3GQn265wYF8i6TjCfAM4Htdw+y+V2\n5I10mNANZpSH694Ms/dH/sE5BA62Y0kMkAF+DvcJbnNxhXkPG68NP8FN46MNSG1h\nVJDmpmm6PXZMwpY+ulsWX30nhFk07D/+ApNwxIXl/a1yaKA+5NkYfuKHN/eIIsIO\nKrHdxaWbfEg1WOcv6gQH4NEi8BnwvCW8Th8k9LPFnSCIknr4OHDJbAuoESFG58+0\nEuMrd9k3pepodgpQZ5ZEZc5EN1N9VOJ0BUTsaCygoqiizt3yQFrVs22Oiu2vtOfw\nK4PljYO4cs6AySMFLe2WuogCAT37SsAYYPpYCZyWeQKBgQDiWgaZPW0kfLAHHbTU\nfjwNVDTD3bkBkOxfvmngjeFgzjly+ehf1qVAexN/fA53dUtN2FTuj+9nRr6ylhA3\nJftoFjcv4ComsISxPAjcMCVq0wTrrpaZnuAcy4gOThSrGtkuhf3Q/AHfe9W6BHby\n9BuIAd1Ow0NFT043z3i78ZNxqQKBgQDQ+JZTBfqHKbbN+tvUvyxir1prMK+Sj4Oh\nnzQ7Whrl+Du6ZQYDr3hwC48oWm2UDNo33mZRhyCdIqqM+1EKYHXz9+VWweVOUcb6\nZkvojKnTaefZPOezejkn5mVDU02afAr1696tHNXsgvEdtwQzj/6J1ilmiIqxhsD+\ncVYe2eIMvwKBgDpWj5rRPR8JT+kVm/SkcF/TEyJkM/mWW4W1st4gUzU7EY1zoZOJ\n49+BmR3jYGsjfPwcRI+T41UP47htetJr5KcICsM5GEQOfLSdT39InWwx5PPFdKU1\nUHe7cV6Wezc6XT1jZW6GdQkfho9B9VJa3fmo2VwicWUcsoEp5Okzsxe5AoGAMIyw\nkBVhgSmF2REhJapMq5jFzwV+pPRGxrPwNKHYgflMFyAFZ7HKr21gEyX/M1hREo3P\nA737K8a0DREOYPTMMqQzWhauKaYCLoa5uAuGISIHxYbK5f3NbaGvgRbHfs621S+5\nikqawNojHp44kaownuFsuO+cGWaPTA4UzhIc3I0CgYBWD5r+ngwFvF+9+ZJZLWiE\nHzB8wDv6C9gygNdxUisxx7t7Rd1h2ZE9tquvk4+xAfAZmsGgp3ASRtkANjx3bWyk\nLj3U4+JNMpnXr7WTRcK87J9zkAeHUv7412DIQuGpL7lmD0qDtfnh2q/I8f+1jWGZ\nUzwes4du8KD4Bsj3+dUa2w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dailynews-ceaa4@appspot.gserviceaccount.com",
+  "client_id": "107332376643662640811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dailynews-ceaa4%40appspot.gserviceaccount.com"
+}

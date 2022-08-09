@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854967084197",
+    "project_id": "stwich-6112e",
+    "storage_bucket": "stwich-6112e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854967084197:android:4f710e5df67cede8d7994c",
+        "android_client_info": {
+          "package_name": "com.stwichtournment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854967084197-hn7avvh98qsnmvgu6a0ji2ie51k7qubo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stwichtournment",
+            "certificate_hash": "b06d51a66b6692c10c3c79b61adfc5a89e575c84"
+          }
+        },
+        {
+          "client_id": "854967084197-13a7ljftofif84kiou9oab4g9c7r92f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOE1t4slq6x4fhC_KAvNO8e5kLSRArMF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854967084197-13a7ljftofif84kiou9oab4g9c7r92f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
